@@ -16,7 +16,7 @@ export const main = {
   name: "Suraj Karosia",
   doamin: "A MERN Stack Web Developer",
   resume:
-    "https://drive.google.com/file/d/13h_5_Ykgnx__iN-9CwtDW24Mjl-nk3df/view?usp=sharing",
+    "https://drive.google.com/file/d/1pKYW3YoR_revISAmi8gezypo96Y6n24k/view?usp=sharing",
 };
 
 // AboutMe
@@ -26,6 +26,25 @@ export const aboutme = {
   p1: "Hey, My name is Suraj Karosia. I have completed my Bachelor of Engineering in I.T Branch from Lakshmi Narain College of Technology, Indore(M.P.).",
   p2: " I'm a passionate coder and an enthusiastic Web Developer capable of applying programming skills to solve complex problems. Seeking a challenging role in the field of software development that will offer an opportunity for further development of my abilities, skills and knowledge in an organization.",
   p3: "Apart from coding I also like cooking 👨‍🍳 Bike riding 🏍️, Play Cricket 🏏.",
+};
+
+//Experience
+export const experience = {
+  title:"Experience",
+  p1:"FRESHWORKS",
+  p2:"Freshworks makes easy-to-use business software. We are a leading provider of modern SaaS solutions that solve multiple, complex business problems.",
+  p3:"Work Experience: Feb 2022 - March 2023 ",
+  p4:"Responsiblities: ",
+  work:[
+    "Collaborate with the Platforms team, focusing on the IPaaS (Integration Platforms as a Service) domain.",
+    "Rectified bugs and implemented enhancements, resulting in a significant improvement in product performance and functionality.",
+    "Achieved a remarkable increase in code coverage from 40 to 98 percent.",
+    "Developed and maintained APIs to enable seamless data synchronization for customers, thereby adding value to the product.",
+    "Resolved escalated support tickets, providing prompt and effective solutions, and enhancing customer satisfaction.",
+    "Contribute to the team’s efforts in delivering high‑quality software, and meeting project deadlines."
+  ],
+  p5:"Tech Stacks: JAVA | SpringBoot | MySQL | AWS | Docker | Jenkins | Terraform",
+
 };
 
 // Skills
